@@ -1,0 +1,15 @@
+/* Code by Sasen-Perera 2021*/
+body{
+    background-color: blue;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: cadetblue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: cyan;
+}
